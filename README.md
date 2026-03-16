@@ -34,4 +34,4 @@ Tecnologias: Python
 ## Contato
 
 LinkedIn:  
-https://linkedin.com/in/guilherme-vilas-b2b6a8164
+https://www.linkedin.com/in/guilherme-araujo-b2b6a8164/
