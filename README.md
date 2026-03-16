@@ -1,16 +1,37 @@
-## Hi there 👋
+# Guilherme Araujo
 
-<!--
-**DevGuilhermeAraujo/DevGuilhermeAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software | Analista de Sistemas
 
-Here are some ideas to get you started:
+Profissional de TI com formação em Sistemas de Informação e experiência em desenvolvimento de sistemas, integração de APIs e automação de processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- PHP
+- JavaScript
+- Python
+- SQL
+- MySQL
+- APIs REST
+- JSON
+
+## Projetos em destaque
+
+### Integração Correios + WhatsApp
+Sistema para envio automático de mensagens de rastreamento.
+
+Tecnologias: PHP, APIs REST
+
+### Portal de Assistências integrado ao ERP Sankhya
+Portal web com integração com API do ERP Sankhya.
+
+Tecnologias: PHP, MySQL
+
+### Sistema de geração automática de laudos
+Automação de geração de documentos em PDF.
+
+Tecnologias: Python
+
+## Contato
+
+LinkedIn:  
+https://linkedin.com/in/guilherme-vilas-b2b6a8164
